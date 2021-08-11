@@ -69,7 +69,7 @@ export default Vue.extend({
   },
   head () {
     return {
-      title: 'About - MovJS'
+      title: 'About - MovieJS'
     }
   }
 })
