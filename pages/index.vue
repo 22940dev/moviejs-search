@@ -33,7 +33,7 @@ export default Vue.extend({
   },
   head () {
     return {
-      title: 'Your movie search engine - MovJS'
+      title: 'Your movie search engine - MovieJS'
     }
   }
 })
