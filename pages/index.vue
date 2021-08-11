@@ -11,7 +11,7 @@
           <span class="text-teal-400">search engine</span>
         </h2>
         <p class="mx-auto mt-3 text-base text-gray-300 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-          MovJs is a <strong>VueJs</strong> powered movie and entertainment search engine for people in a hurry.
+          MovieJs is a <strong>VueJs</strong> powered movie and entertainment search engine for people in a hurry.
         </p>
 
         <search-form />
